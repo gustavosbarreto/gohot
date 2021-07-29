@@ -1,0 +1,4 @@
+package nada
+
+func Nada() {
+}
